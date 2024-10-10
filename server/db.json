@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "name": "Cam",
+      "price": 45000,
+      "quantity": 34,
+      "id": 2,
+      "image": "https://dt-pro.vn/upload/product/cam-my.jpg",
+      "extraDay": "15/02/2024"
+    },
+    {
+      "name": "Dâu tây",
+      "price": 30000,
+      "quantity": 56,
+      "image": "https://suckhoedoisong.qltns.mediacdn.vn/2015/4-loi-ich-tuyet-voi-cua-dau-tay-4-1422241944000.jpg",
+      "extraDay": "28/06/2024",
+      "id": 3
+    },
+    {
+      "name": "Táo",
+      "price": 35000,
+      "quantity": 150,
+      "image": "https://baohanam-fileserver.nvcms.net/IMAGES/2021/06/23/tai-sao-qua-tao-co-the-de-duoc-10-thang-ma-khong-h-56-0.jpg",
+      "extraDay": "04/05/2024",
+      "id": 4
+    }
+  ]
+}
